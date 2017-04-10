@@ -15,7 +15,7 @@ Plug 'Procrat/oz.vim'
 
 Or you could use some other plugin manager:
 - [Vundle](https://github.com/gmarik/vundle)
-- [NeoBundle](https://github.com/Shougo/neobundle.vim)
+- [Dein.vim](https://github.com/Shougo/dein.vim)
 - [Pathogen](https://github.com/tpope/vim-pathogen)
 
 
